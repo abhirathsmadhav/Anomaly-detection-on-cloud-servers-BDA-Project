@@ -1,0 +1,58 @@
+[
+    {
+        "Method": "Baseline",
+        "TP": 171,
+        "FP": 3993,
+        "TN": 21591,
+        "FN": 732,
+        "Accuracy": 0.8216106014271152,
+        "Precision": 0.04106628242074928,
+        "Recall": 0.1893687707641196,
+        "F1": 0.0674955595026643,
+        "Pred_Anomalous_Intervals": 4164,
+        "Windows_Detected": 9,
+        "Threshold": 0.007075717225952203
+    },
+    {
+        "Method": "RM_3",
+        "TP": 259,
+        "FP": 4744,
+        "TN": 20840,
+        "FN": 644,
+        "Accuracy": 0.7965794540718089,
+        "Precision": 0.05176893863681791,
+        "Recall": 0.2868217054263566,
+        "F1": 0.08770741618692855,
+        "Pred_Anomalous_Intervals": 5003,
+        "Windows_Detected": 9,
+        "Threshold": 0.005094615832885893
+    },
+    {
+        "Method": "RM_6",
+        "TP": 308,
+        "FP": 5417,
+        "TN": 20167,
+        "FN": 595,
+        "Accuracy": 0.7730207271491675,
+        "Precision": 0.05379912663755459,
+        "Recall": 0.34108527131782945,
+        "F1": 0.09293904646952324,
+        "Pred_Anomalous_Intervals": 5725,
+        "Windows_Detected": 8,
+        "Threshold": 0.004055012494264527
+    },
+    {
+        "Method": "RMed_3",
+        "TP": 210,
+        "FP": 4147,
+        "TN": 21437,
+        "FN": 693,
+        "Accuracy": 0.8172688488692567,
+        "Precision": 0.04819830158365848,
+        "Recall": 0.23255813953488372,
+        "F1": 0.07984790874524715,
+        "Pred_Anomalous_Intervals": 4357,
+        "Windows_Detected": 8,
+        "Threshold": 0.005775572851939911
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "3.0": {
+        "interval_precision": 0.024336339387781025,
+        "interval_recall": 1.0,
+        "interval_f1": 0.04751630583041937,
+        "detected_windows": 25,
+        "total_windows": 25
+    },
+    "4.0": {
+        "interval_precision": 0.02433943089430894,
+        "interval_recall": 1.0,
+        "interval_f1": 0.047522198521752074,
+        "detected_windows": 25,
+        "total_windows": 25
+    },
+    "5.0": {
+        "interval_precision": 0.024396455128858102,
+        "interval_recall": 1.0,
+        "interval_f1": 0.04763088549694228,
+        "detected_windows": 25,
+        "total_windows": 25
+    }
+}

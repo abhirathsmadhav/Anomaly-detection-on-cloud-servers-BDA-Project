@@ -1,0 +1,56 @@
+{
+    "0.01": {
+        "interval_precision": 0.03299492385786802,
+        "interval_recall": 0.013569937369519834,
+        "interval_f1": 0.019230769230769232,
+        "confusion_matrix": [
+            [
+                38026,
+                381
+            ],
+            [
+                945,
+                13
+            ]
+        ],
+        "detected_windows": 1,
+        "total_windows": 25,
+        "windows_with_zero_telemetry": 1
+    },
+    "0.025": {
+        "interval_precision": 0.026395939086294416,
+        "interval_recall": 0.027139874739039668,
+        "interval_f1": 0.02676273803396809,
+        "confusion_matrix": [
+            [
+                37448,
+                959
+            ],
+            [
+                932,
+                26
+            ]
+        ],
+        "detected_windows": 2,
+        "total_windows": 25,
+        "windows_with_zero_telemetry": 1
+    },
+    "0.05": {
+        "interval_precision": 0.021838496698831894,
+        "interval_recall": 0.04488517745302714,
+        "interval_f1": 0.029381619405534676,
+        "confusion_matrix": [
+            [
+                36481,
+                1926
+            ],
+            [
+                915,
+                43
+            ]
+        ],
+        "detected_windows": 8,
+        "total_windows": 25,
+        "windows_with_zero_telemetry": 1
+    }
+}

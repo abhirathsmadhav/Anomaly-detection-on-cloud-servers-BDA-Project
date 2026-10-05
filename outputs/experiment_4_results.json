@@ -1,0 +1,8 @@
+[
+    {
+        "Name": "Seasonal Ensemble Z > 3.0",
+        "Accuracy": "84.04%",
+        "Precision": "2.71%",
+        "Recall": "15.61%",
+        "F1": "4.62%",
+        "TP": 

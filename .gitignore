@@ -1,0 +1,28 @@
+# Big Data Files (DO NOT PUSH)
+unpivoted_data.parquet
+outputs/contextual_correct.parquet
+outputs/final_context_anomaly_scores.parquet
+outputs/contextual_base.parquet
+
+# DuckDB Temp
+duckdb_tmp/
+*.duckdb
+*.db
+*.wal
+
+# Machine Learning Models (Optional to ignore if they are large, joblib is 15MB which is fine, but good practice to ignore)
+# outputs/*.joblib
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

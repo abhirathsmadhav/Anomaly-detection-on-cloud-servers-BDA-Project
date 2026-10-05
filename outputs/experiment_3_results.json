@@ -1,0 +1,8 @@
+[
+    {
+        "Threshold": "0.5%",
+        "Value": 0.005,
+        "Precision": "2.46%",
+        "Recall": "100.00%",
+        "F1": "4.81%",
+        "Predicted_Intervals": 
