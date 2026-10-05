@@ -1,0 +1,20 @@
+FINAL DEMONSTRATION SUMMARY
+
+Selected Event: a24
+Documented Start (UTC): 2024-05-31 11:52:00+00:00
+Documented End (UTC): 2024-05-31 19:43:00+00:00
+
+DETECTION STATISTICS
+- Overlapping Test Intervals (Total buckets inside window): 95
+- Intervals Flagged as Anomalous by Detector: 62
+- Maximum Reconstruction Error (MSE): 0.24180
+- Final Decision Threshold: 0.00708
+
+DEMO SUITABILITY
+This event is highly suitable for a video demonstration because it contains a massive, unambiguous spike in reconstruction error that clearly breaches the established 99.9th percentile threshold. The timeline visualization provides a very clean, intuitive picture of the model recognizing abnormal 5XX error behavior.
+
+DISPLAY RECOMMENDATION
+For the live or recorded demo, display the exact timeline between:
+2024-05-31 05:52 UTC and 2024-06-01 01:43 UTC
+
+This spans 6 hours before and after the event, offering viewers clear context of the stable baseline right before the massive system deviation occurs.

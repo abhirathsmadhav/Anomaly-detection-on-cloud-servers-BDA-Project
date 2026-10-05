@@ -1,0 +1,3 @@
+@echo off
+echo Starting Cloud Anomaly Detection Real-Time Demo...
+python -m streamlit run app.py
